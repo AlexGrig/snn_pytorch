@@ -1,0 +1,1 @@
+tensorboard --logdir=1_self-norm:./model_sn,2_batch-norm:./model_bn,3_no_norm:./model_un --port 2000
